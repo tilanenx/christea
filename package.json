@@ -1,0 +1,10 @@
+{
+
+  "name": "@cma494102/christea",
+  "version": "1.0.0",
+  "description": "Quest for tea.xyz",
+  "main": "index.js",
+  "author": "@cma494102",
+  "repository": "https://github.com/tilanenx/christea.git",
+  "license": "ISC"
+}
